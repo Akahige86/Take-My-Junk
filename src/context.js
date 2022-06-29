@@ -6,7 +6,7 @@ const initialRender = {
         'user': {'fullName': `no user logged!`, 'password': null},
         'auctions': {},
         'menu': `login`,
-        'url': 'http://localhost:8081/'
+        'url': 'http://172.22.0.4:8081/'
     };
 
 const ContextProv = (props) => {
